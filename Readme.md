@@ -1,0 +1,2 @@
+# online ecommerce store
+ Repository for an online e-commerce store project, designed to handle the seamless buying and selling of products with a focus on user-friendly features and optimized performance.
